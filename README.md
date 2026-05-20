@@ -5,6 +5,7 @@ A full-stack movie & TV series streaming platform built with React 18, Laravel 1
 > 📸 Project Preview  
 > ![IMDb Play Preview](./frontend/public/preview1.png)
 > ![IMDb Play Preview](./frontend/public/preview2.png)
+> ![IMDb Play Preview](./frontend/public/preview3.png)
 
 ---
 
